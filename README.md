@@ -1,4 +1,4 @@
-# DotNetCore.WindowsService
+# DotNetCore.WindowsService---demo
 
 Simple library that allows one to host dot net core application as windows services. Perfect solution to power micro-services architecture.
 
